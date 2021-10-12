@@ -14,6 +14,7 @@ public class Mascota {
 	private String apodo;
 	private String raza;
 	private String atrib1;
+	private String atrib2;
 
 	public Mascota() {
 	}
