@@ -13,6 +13,7 @@ public class Mascota {
 	private String id;
 	private String apodo;
 	private String raza;
+	private String atrib1;
 
 	public Mascota() {
 	}
