@@ -1,0 +1,9 @@
+package com.redsocial.enumeraciones;
+
+/**
+ * POR EL MOMENTO.. CREARLO AUNQUE NO TENGA MUCHO SENTIDO, ES PARA IR
+ * ADAPTANDOSE A FUTUROS "ROLES: QUE PUEDE TENER UN USUARIO
+ */
+public enum Rol {
+	ADMIN, USER;
+}
